@@ -13,3 +13,6 @@ __pycache__/
 # Temporary files
 *.tmp
 *.temp
+
+# xml directory
+xml/
