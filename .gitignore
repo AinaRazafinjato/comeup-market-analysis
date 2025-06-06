@@ -1,0 +1,15 @@
+# This is a sample .gitignore file for a Python project
+# Python bytecode files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
